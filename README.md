@@ -4,7 +4,7 @@ Wine-backend
 
 ## Description
 
-This project is intended for an online store, ordering wines. 
+This project is intended for an online store, ordering and buying wines. 
 It was built to help beginners who want to take the first  step in programming.
 
 
@@ -24,7 +24,7 @@ npm install
 
 ## Getting Started
 
-nodemon server.js
+npm run start
 
 
 ### Resourses
@@ -38,11 +38,5 @@ Dotenv
 Cors
 Nodmailer
 
-
-### Start the application
-
-
-
-
 ### Author
-https://github.com/Elen6/wine-backend
+https://github.com/Elen6
