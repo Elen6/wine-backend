@@ -5,8 +5,6 @@ Wine-backend
 ## Description
 
 This project is intended for an online store, ordering and buying wines. 
-It was built to help beginners who want to take the first  step in programming.
-
 
 
 ## Features
@@ -17,15 +15,13 @@ It was built to help beginners who want to take the first  step in programming.
 
 ### Installing
 
-git clone link
-cd .. project
-npm install
-
-
-## Getting Started
-
+```
+git clone https://github.com/Elen6/wine-backend.git
+cd wine-backend
+npm install 
 npm run start
 
+```
 
 ### Resourses
 
